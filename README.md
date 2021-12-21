@@ -1,5 +1,5 @@
 # CCOM-Final-project
-This will be our final proyect for the data science class, in which we will analyze data collected from a high conflict platform=mediated avoidance assay.
+This will be our final proyect for the data science class, in which we will analyze data collected from a high conflict platform-mediated avoidance assay.
 
 # Purpose
 For this proyect, our aim was to create a code that could reorganize, clean and plot data obtained from a behavioral experiment. In this experiment, mice were exposed to an aversive and a rewarding stimulus simultaneously, and a program measured how long it took for them to mount a platform. With this code we wanted to be able reduce the time-consuming and error-prone nature of manual data analysis, and be able to manipulate an extensive data set with ease.
@@ -56,3 +56,6 @@ scipy.stats.ttest_ind(Tmnf['TM5'], Tfnf['TF5'], equal_var=False)
 
 # Google collab
 The code in google collab looks a little bit different near the end, but it's still the same code. For collab remember to 1) load the files and 2) change the file paths to the file names.
+
+# Link to video explaining the project and code
+Google drive: 
