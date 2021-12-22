@@ -6,6 +6,13 @@ For this proyect, our aim was to create a code that could reorganize, clean and 
 
 Since we didn't get to the point in which we could plot with the regular excel document, we created a simpler version for the plotting, but wrote the code with the original version in mind. 
 
+# Google collab
+The code in google collab looks a little bit different near the end, but it's still the same code. For collab remember to 1) load the files and 2) change the file paths to the file names if necessary.
+
+# Link to video explaining the project and code in collab
+Video explaining the code: https://drive.google.com/file/d/1hlsO0K2laS1oRuiFIiqb0lY6beKoLiHT/view?usp=sharing
+Google drive: https://colab.research.google.com/drive/15i_-m1VpIGNGQ3cl5uG6merlVnfdPSUK?usp=sharing
+
 # Code for plotting:
 ### First import the necessary packages
 import pandas as pd
@@ -53,9 +60,3 @@ axs = Tmnf.plot(color=m)
 
 Tfnf.plot(xlabel='Time(s)',ylabel="Time on platform",title="Males vs Females in conflict testing",ax=axs, color=f)
 scipy.stats.ttest_ind(Tmnf['TM5'], Tfnf['TF5'], equal_var=False)
-
-# Google collab
-The code in google collab looks a little bit different near the end, but it's still the same code. For collab remember to 1) load the files and 2) change the file paths to the file names.
-
-# Link to video explaining the project and code
-Google drive: https://colab.research.google.com/drive/15i_-m1VpIGNGQ3cl5uG6merlVnfdPSUK?usp=sharing
