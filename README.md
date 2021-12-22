@@ -11,7 +11,8 @@ The code in google collab looks a little bit different near the end, but it's st
 
 # Link to video explaining the project and code in collab
 Video explaining the code: https://drive.google.com/file/d/1hlsO0K2laS1oRuiFIiqb0lY6beKoLiHT/view?usp=sharing
-Google drive: https://colab.research.google.com/drive/15i_-m1VpIGNGQ3cl5uG6merlVnfdPSUK?usp=sharing
+
+Google collab: https://colab.research.google.com/drive/15i_-m1VpIGNGQ3cl5uG6merlVnfdPSUK?usp=sharing
 
 # Code for plotting:
 ### First import the necessary packages
