@@ -58,4 +58,4 @@ scipy.stats.ttest_ind(Tmnf['TM5'], Tfnf['TF5'], equal_var=False)
 The code in google collab looks a little bit different near the end, but it's still the same code. For collab remember to 1) load the files and 2) change the file paths to the file names.
 
 # Link to video explaining the project and code
-Google drive: 
+Google drive: https://colab.research.google.com/drive/15i_-m1VpIGNGQ3cl5uG6merlVnfdPSUK?usp=sharing
